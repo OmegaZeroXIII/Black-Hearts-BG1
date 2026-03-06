@@ -1,0 +1,74 @@
+@16=~Casco~
+@17=~Esta clase de casco de cara abierta, hecho de cuero reforzado o metal, cubre la mayor parte de la cabeza excepto la cara y el cuello. Estos cascos suelen proporcionar protección para la nariz. 
+
+ESTADÍSTICAS:
+
+Habilidades equipadas:
+– Protege contra golpes críticos
+
+Peso: 2~
+
+@18=~Yelmo de los Golpes Duros~
+@19=~Este yelmo no contiene encantamiento alguno, pero parece estar reforzado con pieles colocadas ingeniosamente que otorgan a su portador un poco de protección extra contra los golpes en la cabeza. Desafortunadamente, también huele profundamente a cerveza rancia y sospechas que ninguna cantidad de lavado conseguirá quitarlo del todo.
+
+ESTADÍSTICAS:
+
+Habilidades equipadas:
+– Puntos de golpe: +3
+– Protege contra golpes críticos
+
+Peso: 2~
+
+@22=~Espada bastarda de la perdición humana~
+@23=~También conocida como espada de mano y media, la espada bastarda deriva su nombre del hecho de que está a medio camino entre la espada de dos manos y la espada larga. 
+
+Esta espada vieja y maltrecha ha recibido un encantamiento de perdición, lo que la hace particularmente efectiva para matar humanos. La sangre parece manchar permanentemente su hoja mellada. Incluso el simple hecho de empuñar un arma así se considera a menudo un signo de la maldad del portador, pero la practicidad y la virtud raramente son compañeras fáciles.
+
+ESTADÍSTICAS:
+
+– Carisma: -2
+
+GAC0: +1
+Daño: 2d4+1, +3 contra humanos
+Factor de velocidad: 7
+Tipo de pericia: Espada bastarda
+Tipo: A una mano
+Fuerza necesaria: 11
+
+Peso: 10~
+
+@24=~Espada larga~
+@25=~Estas espadas se llaman a veces espadas de hoja ancha. Tienen hojas de doble filo que miden entre 35 y 47 pulgadas de largo. En la mayoría de los casos, la hoja tiene una punta afilada, aunque también puede ser roma.
+
+ESTADÍSTICAS:
+
+Daño: 1d8 (corte)
+Factor de velocidad: 5
+Tipo de pericia: Espada larga
+Tipo: A una mano
+Fuerza necesaria: 6
+
+Peso: 4~
+
+@3315=~Diario de Ilmryn~
+@3316=~Diario de Ilmryn
+
+Entrada 2 - He encontrado a la que Corazón Negro busca. Vive en un enclave drow secreto al suroeste de Nashkel. Se llama Sendai. Ella es... diferente de lo que esperaba. Me observa con ojos que parecen ver a través de mi disfraz de elfo común. No debo permitir que me descubra.
+
+Entrada 8 - La he observado durante días. Es poderosa, orgullosa y lleva en su sangre la esencia del dios oscuro. Una hija de Bhaal. Debería matarla... sería mi deber como Arpista y como elfo noble. Pero no pude. Es tan hermosa y curiosa. No me odió cuando me encontró. Quiso hablar. Incluso prometió no revelarme ante los suyos. Es extraño. Debo observar más.
+
+Entrada 19 - Ha empezado a visitarme regularmente. Se llama Sendai. Creo que la amo. 
+
+Entrada 22 - Corazón Negro dejó el enclave hace tiempo, pero no lo seguí. No puedo seguirlo. Quizás esto sea una abdicación de mi misión, pero siento que debo permanecer aquí con Sendai. Ella me cuenta sus planes, las cosas que nació para lograr. Me asusta porque, cada vez más, creo que habla con la verdad. Deseo para ella el destino del que habla. 
+
+Entrada 29 - Esta será mi última entrada. Me he jurado a Sendai con todo mi corazón. Me envía a una misión en la superficie... debo destruir a un enemigo suyo. Un hijo de Bhaal como ella que ascendería antes de que sus propios planes se pongan en marcha. Nadie podrá robar esta herencia de mi amor. Malditos sean los Arpistas.~
+
+@3324=~Carta~
+@3325=~Jefe,
+
+Hemos estado haciendo muchas buenas matanzas cerca de Beregost. Buen botín de las caravanas. El dinero más fácil desde los días en que jugábamos a ser guardaespaldas para aquellos cultistas de la muerte. Maldita sea, aquel era un trabajo aburrido, vigilar a esos sacerdotes espeluznantes. Solo pensar en ello me dan ganas de asaltar otra caravana.
+
+Mis Aguasrojas se quedarán por aquí un poco más, para asegurarnos de que estemos bien gordos de botín. Regresaremos para la próxima luna llena. 
+
+Siempre leal,
+-Perthag~
