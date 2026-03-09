@@ -1,74 +1,471 @@
 @16=~Casco~
-@17=~Esta clase de casco de cara abierta, hecho de cuero reforzado o metal, cubre la mayor parte de la cabeza excepto la cara y el cuello. Estos cascos suelen proporcionar protección para la nariz. 
+@17=~Esta clase de casco abierto, fabricado en cuero reforzado o metal, cubre la mayor parte de la cabeza excepto el rostro y el cuello. Estos cascos suelen proporcionar protección para la nariz.
 
 ESTADÍSTICAS:
 
-Habilidades equipadas:
+Capacidades equipadas:
 – Protege contra golpes críticos
 
 Peso: 2~
 
 @18=~Yelmo de los Golpes Duros~
-@19=~Este yelmo no contiene encantamiento alguno, pero parece estar reforzado con pieles colocadas ingeniosamente que otorgan a su portador un poco de protección extra contra los golpes en la cabeza. Desafortunadamente, también huele profundamente a cerveza rancia y sospechas que ninguna cantidad de lavado conseguirá quitarlo del todo.
+@19=~Este yelmo no contiene encantamiento alguno, pero parece estar reforzado con pieles colocadas astutamente que otorgan a su portador un poco de protección extra contra los golpes en la cabeza. Desafortunadamente, también huele profundamente a cerveza rancia y sospechas que, por mucho que se lave, el olor nunca desaparecerá del todo.
 
 ESTADÍSTICAS:
 
-Habilidades equipadas:
+Capacidades equipadas:
 – Puntos de golpe: +3
 – Protege contra golpes críticos
 
 Peso: 2~
 
-@22=~Espada bastarda de la perdición humana~
-@23=~También conocida como espada de mano y media, la espada bastarda deriva su nombre del hecho de que está a medio camino entre la espada de dos manos y la espada larga. 
+@22=~Espada Bastarda Perdición de Humanos~
+@23=~También conocida como espada de mano y media, la espada bastarda deriva su nombre del hecho de que está a medio camino entre el espadón de dos manos y la espada larga.
 
-Esta espada vieja y maltrecha ha recibido un encantamiento de perdición, lo que la hace particularmente efectiva para matar humanos. La sangre parece manchar permanentemente su hoja mellada. Incluso el simple hecho de empuñar un arma así se considera a menudo un signo de la maldad del portador, pero la practicidad y la virtud raramente son compañeras fáciles.
+Esta vieja y maltrecha espada ha recibido un encantamiento de perdición, lo que la hace particularmente eficaz para matar humanos. La sangre parece manchar permanentemente su hoja mellada. El simple hecho de empuñar un arma así se considera a menudo un signo de la maldad del portador, pero la practicidad y la virtud rara vez son buenas compañeras.
 
 ESTADÍSTICAS:
 
-– Carisma: -2
+–2 Carisma
 
 GAC0: +1
 Daño: 2d4+1, +3 contra humanos
 Factor de velocidad: 7
 Tipo de pericia: Espada bastarda
-Tipo: A una mano
-Fuerza necesaria: 11
+Tipo: Una mano
+Requiere:
+ 11 de Fuerza
 
-Peso: 10~
+Peso: 9~
 
-@24=~Espada larga~
-@25=~Estas espadas se llaman a veces espadas de hoja ancha. Tienen hojas de doble filo que miden entre 35 y 47 pulgadas de largo. En la mayoría de los casos, la hoja tiene una punta afilada, aunque también puede ser roma.
+@26=~Libro de hechizos de Sazazir~
+@27=~Este pesado tomo contiene los hechizos y escritos de Sazazir. La mayor parte es indecifrable, aunque pudiste extraer unas pocas páginas con hechizos que podrían ser transcritos. Por lo que alcanzas a entender, el resto del libro se compone principalmente de los desvaríos de un loco; aterrorizado por una especie de contable de un antiguo culto suyo que tenía la intención de asesinarlo. También hay varios pasajes sobre cómo a menudo se sentía asustado hasta casi la parálisis por la idea de que su propio esqueleto sería el próximo en traicionarlo.
 
 ESTADÍSTICAS:
 
-Daño: 1d8 (corte)
+Peso: 6~
+
+@31=~Bolsa de Contención para una cantidad normal de cosas~
+@32=~Alguna vez fue una legendaria bolsa de contención, pero parece que el encantamiento que hacía que la bolsa se abriera a una dimensión de bolsillo ha sido interrumpido. Ahora es una bolsa ordinaria y mundana en todos los sentidos y, por lo tanto, bastante inútil.
+
+ESTADÍSTICAS:
+
+Peso: 1~
+
+@33=~Copia del Liberus Optimae Erositica~
+@34=~Aunque no es el auténtico Liberus Optimae Erositica, esta volumen copiado parece ser una reproducción fiel de la obra original. Al examinar la sugerente portada, te sientes tentado a abrirlo para examinar el contenido salaz del libro, pero la mirada vigilante de tus compañeros aplaca rápidamente esos impulsos. Al menos hasta que tengas la oportunidad de verlo en privado.
+
+ESTADÍSTICAS:
+
+Peso: 10~
+
+@35=~Tomo de Manuscritos~
+@36=~Este tomo contiene los manuscritos de la dramaturga (y rumoreada Arpista) Salena Fairsky, incluyendo obras tan populares como "El enigma de Merryweather" y "Susurra los Seis".
+
+Las obras de Salena son bien conocidas por estar bellamente escritas, con personajes que exploran temas cíclicos de la naturaleza humanoide. Los críticos, sin embargo, a menudo han criticado su trabajo por ser excesivo y por depender de finales "deus ex machina" para resolver los conflictos centrales de la obra.
+
+Las últimas páginas contienen la última obra inacabada de Salena, titulada "Corazón Negro". Detalla a una mujer llamada la "Cardenal" mientras corteja al "Hombre Pálido", quien había asesinado a su familia cuando ella era solo una niña, con la esperanza de usar la relación para destruirlo. La obra parecía avanzar hacia un giro trágico a medida que los esfuerzos de la Cardenal la arrastraban por un camino oscuro, volviéndose sus acciones cada vez más extremas y comprometiendo su moral poco a poco hasta convertirse en lo mismo que el hombre que tanto odiaba. La historia se detiene abruptamente sin ninguna pista de hacia dónde podría haber ido el final.~
+
+@37=~Anillo de Resistencia Mágica Menor~
+@38=~Los anillos de resistencia mágica son un accesorio común entre los guerreros de Rashemen para protegerse de sus odiados rivales, los Magos Rojos de Thay. Más de una vez, un Mago Rojo ha lanzado una bola de fuego sobre un grupo de guerreros rashemíes, solo para encontrarlos ilesos por las llamas y cargando directamente hacia ellos.
+
+ESTADÍSTICAS:
+
+Capacidades equipadas:
+– +10% de resistencia mágica
+
+Peso: 0~
+
+@42=~Cristal de la Eternidad Maculado~
+@43=~Encontraste este objeto en un grupo de aventureros locos que te atacaron mientras aullaban lamentos sobrenaturales. Aunque supuestamente este objeto es una Lente de Visión Verdadera, parece que hay manchas en su superficie, y cuando miras brevemente el reflejo, ves una presencia oscura acechando detrás de ti. Envolviste rápidamente el objeto en un paño para cubrirlo, esperando que eso inhiba cualquier magia vil que lo haya impregnado.~
+
+@62=~Hoja de Sangría~
+@63=~Esta katana teñida de carmesí ha sido imbuida con un encantamiento que hace que aquellos golpeados por ella continúen desangrándose lentamente. La historia exacta de la hoja está envuelta en el misterio, aunque ha sido empuñada por más de un asesino. Algunos incluso sospechan que pasó por manos de varios Acechadores de la Muerte, y es responsable de la horrible muerte de varios nobles y figuras políticas a lo largo de los años.
+
+ESTADÍSTICAS:
+
+Capacidades de combate:
+– 2 puntos de daño por sangrado adicional cada asalto hasta infligir 10 puntos de daño
+
+GAC0: +1
+Daño: 1d10+1 (cortante)
+Factor de velocidad: 3
+Tipo de pericia: Katana
+Tipo: Una mano
+Requiere:
+ 6 de Fuerza
+
+Peso: 5~
+
+@59=~Cristal de la Eternidad Roto~
+@60=~Aunque supuestamente solía ser un potente objeto mágico, el Cristal de la Eternidad está ahora roto y arruinado, su marco doblado y estropeado, y el cristal que supuestamente había sido encantado con visión verdadera ha desaparecido sin dejar rastro. No te imaginas que esto pueda valer nada para nadie.~
+
+@66=~Carta~
+@67=~PLACEHOLDER~
+
+@71=~Esta fue una de las crías de araña que explotaron del cuerpo del hombre dentro de la Taberna del Cántico, creciendo instantáneamente de tamaño al emerger. Hay algo extra repulsivo en cargar con el cuerpo de esta araña después de que acabara de estar arrastrándose por el interior del cuerpo de un hombre. Aún quedan trozos de sus vísceras adheridos a sus patas de bordes antinaturales.~
+
+@80=~Peto de Arácnido~
+@81=~Esta armadura de cuero está forrada con hilos sedosos de telarañas que proporcionan tanto una excelente protección como un curioso efecto secundario; cuando el portador de la armadura es golpeado, las redes rocían al atacante, envolviéndolo en telarañas por un corto tiempo. Esto funciona incluso cuando es golpeado por atacantes a distancia. Estas armaduras son comunes en la Infraoscuridad, usadas por parias druídicos que cuidan de arboledas de hongos o de las muchas extrañas bestias de esos reinos oscurecidos.
+
+ESTADÍSTICAS:
+
+Capacidades equipadas:
+– 30% de probabilidad de inmovilizar a los atacantes (como el hechizo Telaraña) a menos que realicen una tirada de salvación con éxito.
+
+Clase de armadura: 7 (9 contra perforante y proyectiles)
+Requiere:
+ 4 de Fuerza
+
+Peso: 10~
+
+@82=~El Regalo de Sendai~
+@83=~Recuperaste este collar de zarzas del Arpista renegado, Riezen Ojososcuros. Posee un débil encantamiento protector que otorga una pequeña bonificación a la clase de armadura y a las tiradas de salvación. En el collar hay inscrita una nota en el idioma drow.
+
+"Para mi amante tocado por el sol. Realiza tus grandes obras pensando en mis labios oscuros".
+
+ESTADÍSTICAS:
+
+Capacidades equipadas:
+– Clase de armadura: +1
+– Tiradas de salvación: +1
+
+Peso: 1~
+
+@84=~Diario cifrado de Riezen Ojososcuros~
+@85=~Recuperaste este diario del Arpista renegado, Riezen Ojososcuros. Sin embargo, lo escrito en su interior está en un código elaborado que es imposible de descifrar. Al examinar las páginas, sospechas que un experto criptógrafo tardaría meses, si no años, en recomponerlo por completo.
+
+Peso: 5~
+
+@89=~Collar de Brilla~
+
+@90=~Carta sin terminar~
+@91=~Krollir,
+
+Informe de situación: Hemos seguido vigilando de cerca la situación en la Puerta de Baldur. Creo que tus sospechas sobre que algo importante estaba ocurriendo aquí no eran infundadas. El Trono de Hierro continúa manipulando la región y consolidando su poder. Sería prudente establecer una asociación con ellos ahora; parecen del tipo que pagaría con gusto una buena moneda por nuestros servicios.
+
+También hemos espiado un enclave de Magos Rojos en pleno centro de la ciudad. Creemos que están alineados con el Trono de Hierro, aunque como bien has dicho, la información indica que no existe una relación formalizada entre ambas entidades. Según nuestras propias investigaciones, los Magos Rojos aquí están liderados por una mujer llamada Cherise, una mujer con una historia curiosa según nuestros hallazgos. Ella se encuentra entre el antiguo orden de cultistas, como muchos de los que nuestro cliente en la región nos ha ordenado eliminar. Podría ser complicado si se nos pide que la asesinemos, y por supuesto me remitiré a tu juicio sobre si debemos proceder o no.
+
+Como adición a este informe de situación, ahora tenemos en nuestro poder a una agente Arpista de la que se nos informó que andaría fisgoneando. Es frustrante que se nos haya ordenado mantenerla en buen estado de salud cuando extraer sus secretos de Arpista podría ser mucho más divertido. Te digo que me disgusta trabajar para un cliente que tiene más secretos que nosotros. Dicho esto, estamos cerca de un avance en eso también. Pronto tendremos su ident-
+
+La carta parece detenerse aquí, probablemente interrumpida por tu ataque contra los Cuchillos Nocturnos~
+
+@92=~Fortuna Prestada~
+@93=~Loyle Nosbrun era un jugador prodigioso, un hombre que nunca salía de casa sin hacer una apuesta, y nunca volvía a casa sin hacer dos más. Aunque tal estilo de vida es seguramente un camino al desastre para la mayoría, Loyle siempre encontraba una salida o un giro inesperado de la fortuna que saldaba sus deudas para poder vivir y apostar otro día. Algunos atribuían esta suerte antinatural a la llamativa espada que llevaba a la cadera, de la que nunca parecía separarse.
+
+Sin embargo, incluso la buena suerte de Loyle se agotó cuando se encontró en una guarida criminal, acumulando una deuda que se descontroló. Hablando con el Señor del Crimen que dirigía el círculo, Loyle hizo una última apuesta: una sola tirada de dados desfavorable que saldaría sus deudas o lo esclavizaría para siempre a los caprichos del Señor del Crimen. Cogiendo su espada y depositando un beso en su hoja, lanzó el dado, que improbablemente cayó a su favor. Con un suspiro de alivio, Loyle abandonó la guarida. Momentos después de salir, fue improbablemente aplastado por una vaca que se había soltado de las garras de un wyvern que volaba muy por encima.
+
+Al recoger la hoja, sientes que tu suerte mejora enormemente. Sin embargo, también sientes una ligera corriente de pavor, presintiendo que esta mejora no se te está dando, sino que es simplemente prestada del futuro. Todas las fortunas se equilibran con el tiempo.
+
+ESTADÍSTICAS:
+
++1 Suerte
+1% de probabilidad al golpear de que... algo ocurra
+
+GAC0: +2
+Daño: 1d6+2 (perforante)
+Factor de velocidad: 1
+Tipo de pericia: Espada corta
+Tipo: Una mano
+Requiere:
+ 4 de Fuerza
+
+Peso: 2~
+
+@94=~Anillo de Saber Arcano~
+@95=~Mientras llevas este anillo, tu mente recuerda datos y detalles con más facilidad, expandiendo significativamente la memoria a largo plazo. Los anillos de este tipo son comunes entre los Magos Rojos de Thay, aunque ninguno admitirá jamás el uso de tal muleta en su búsqueda de la maestría arcana.
+
+ESTADÍSTICAS:
+
++2 Inteligencia
+
+Peso: 0~
+
+@103=~Tomo Harapiento~
+@104=~Este tomo parece positivamente antiguo, posiblemente de cientos de años de antigüedad. Solo eres capaz de distinguir unas pocas anotaciones en su interior.
+
+"...benditos somos por haber recibido el huevo... imaginaos, un dragón impregnado con la propia esencia oscura de nuestro Señor. Qué gloriosa devastación... recibí una premonición de nuestro señor oscuro. Esta será una de las muchas semillas sembradas a lo largo de los años. Para perpetuar su esencia en caso de que... ocultamos nuestro enclave hábilmente pero... demasiado peligroso. Sus enemigos han notado nuestra presencia. Debemos abandonar este santuario... hacia el este, al desierto de Anauroch. Allí criaremos al dragoncillo en secreto, durante siglos si es necesario, hasta que llegue el momento de la profecía... Un día él se alzará para ocupar el lugar que le corresponde junto al Señor.~
+
+@108=~Piedra Ioun Naranja Brillante~
+@109=~Esta piedra ioun brilla con un tono naranja intenso que hace que tus cabellos se ericen. Sientes una sensación tangible de energía fluyendo a través de ella. Las piedras ioun de este tipo refuerzan el poder de los magos que las portan, y son muy codiciadas en todos los Reinos.
+
+ESTADÍSTICAS:
+
+Capacidades equipadas:
+
+Nivel de lanzador de mago: +1
+
+Peso: 0~
+
+@110=~Gema Extraña~
+@111=~Esta reluciente piedra preciosa se siente extrañamente ligera al sostenerla y proyecta un aura de otro mundo. No estás seguro de para qué sirve, pero sientes que lo mejor sería conservarla hasta que puedas dársela a alguien que pueda utilizarla.~
+
+@112=~Carta~
+@113=~Cherise,
+He recibido vuestro inventario de criaturas y considero que la colección de fieras a vuestro mando es una fuerza impresionante. Sois sabia al apoyarme en mi ascenso al poder. Los Zulkir temblarán de miedo cuando regreséis a Thay, respaldada por mi apoyo. Una vez que les hayáis arrebatado su poder, ni siquiera los Arpistas o esos viejos rivales vuestros, los Acechadores de la Muerte, supondrán peligro alguno para vos.
+
+Debo reiterar que yo, Winski, Cythandria, o mis lugartenientes Semaj y Angelo, hemos de ser vuestros únicos contactos. Solo ellos conocen el alcance total de mis planes, incluyendo detalles que el resto de la organización del Trono de Hierro podría encontrar desagradables. Saldré pronto de la Puerta de Baldur en una misión. Cuando regrese, nos reuniremos de nuevo y se os revelará la siguiente fase de mis planes.
+
+-S~
+
+@116=~Maza de Mímico~
+@117=~Encontraste esta maza entre los restos de un mímico, corroída por su ácido y cubierta de su icor pegajoso, pero por lo demás notablemente intacta. Es difícil decir cuál fue el encantamiento original colocado en la maza, pero su tiempo dentro del sistema digestivo del mímico parece haberla imbuido con propiedades del propio mímico. Al ser blandida contra un enemigo, esta maza tiene la probabilidad de atraparlo en el icor adhesivo del mímico o empaparlo en sus fluidos digestivos ácidos.
+
+Aunque es un arma poderosa, las propiedades de la Maza de Mímico también la hacen extremadamente difícil de soltar una vez recogida, cubriendo la mano del portador con su capa pegajosa. Haría falta un hechizo de Eliminar maldición para deshacer este efecto.
+
+ESTADÍSTICAS:
+
+– Solo puede quitarse con un hechizo de Eliminar maldición
+– 5% de probabilidad de paralizar al objetivo durante 5 asaltos (salvación contra aliento)
+– 5% de probabilidad de infligir 3d12 de daño por ácido al objetivo
+
+GAC0: +2
+Daño: 1d6+3 (contundente)
 Factor de velocidad: 5
-Tipo de pericia: Espada larga
-Tipo: A una mano
-Fuerza necesaria: 6
+Tipo de pericia: Maza
+Tipo: Una mano
+Requiere:
+ 10 de Fuerza
+
+Peso: 7~
+
+@118=~Espada Bastarda~
+@119=~Espada Bastarda +2~
+@120=~También conocida como espada de mano y media, la espada bastarda deriva su nombre del hecho de que está a medio camino entre el espadón de dos manos y la espada larga. La espada bastarda tiene una hoja de doble filo y una empuñadura larga, que puede acomodar ambas manos si se prefiere. La longitud total de la espada bastarda oscila entre los cuatro pies y los cuatro pies y diez pulgadas.
+
+ESTADÍSTICAS:
+
+Daño: 2d4 (cortante)
+Factor de velocidad: 8
+Tipo de pericia: Espada bastarda
+Tipo: Una mano
+Requiere:
+ 11 de Fuerza
+
+Peso: 10~
+@121=~Un herrero no solo ha fabricado esta espada para que esté mejor equilibrada y sea más duradera que una hoja estándar, sino que también se le han colocado poderosos encantamientos. Es más rápida, más precisa y golpea infligiendo mucho más daño que el modelo estándar de su tipo.
+
+ESTADÍSTICAS:
+
+GAC0: +2
+Daño: 2d4+2 (cortante)
+Factor de velocidad: 6
+Tipo de pericia: Espada bastarda
+Tipo: Una mano
+Requiere:
+ 11 de Fuerza
+
+Peso: 7~
+
+@125=~Gema Astral Blanca~
+@126=~Esta gema reluciente parece tener un aura levemente mágica. Sospechas de inmediato que reunirlas será la clave para deshacer los resguardos que protegen a Cherise dentro de su dominio astral.~
+
+@127=~Gema Astral Verde~
+@128=~Esta gema reluciente parece tener un aura levemente mágica. Sospechas de inmediato que reunirlas será la clave para deshacer los resguardos que protegen a Cherise dentro de su dominio astral.~
+
+@129=~Gema Astral Negra~
+@130=~Esta gema reluciente parece tener un aura levemente mágica. Sospechas de inmediato que reunirlas será la clave para deshacer los resguardos que protegen a Cherise dentro de su dominio astral.~
+
+@131=~Gema Astral Azul~
+@132=~Esta gema reluciente parece tener un aura levemente mágica. Sospechas de inmediato que reunirlas será la clave para deshacer los resguardos que protegen a Cherise dentro de su dominio astral.~
+
+@135=~Piedra de Resguardo de Atadura Flamígera~
+@136=~Esta piedra preciosa brillante está caliente al tacto y su superficie parece agitarse y cambiar como una superficie aceitosa que se arremolina a su alrededor. Es probable que una gema así pueda usarse como un poderoso foco para un hechizo de ritual de atadura relacionado con el elemento del fuego.~
+
+@137=~Escamas Carbonizadas~
+@138=~Una armadura de malla obtenida de la Ciudad de Latón; este conjunto parece estar perpetuamente cubierto por una fina capa de una sustancia aceitosa. Cuando la armadura es golpeada, los eslabones rozan entre sí, produciendo chispas que prenden fuego a esta capa aceitosa y provocan que una ráfaga de fuego se lance en dirección al atacante. El encantamiento tejido en la armadura también proporciona una protección limitada contra el fuego.
+
+ESTADÍSTICAS:
+
+30% de probabilidad de lanzar Manos ardientes sobre el objetivo al ser golpeado
+40% de resistencia al fuego
+
+Clase de armadura: 3 (1 contra cortante, 5 contra contundente)
+Requiere:
+ 8 de Fuerza
+
+Peso: 10~
+
+@139=~Lanza glacial~
+@140=~La punta de esta lanza está compuesta de hielo glacial extraído de los recovecos más fríos del Plano Elemental del Agua. El frío es tan intenso que chisporrotea en el aire, y ni siquiera la llama más ardiente podría aspirar a fundirlo. Además de infligir daño adicional por frío, esta lanza tiene una probabilidad de envolver en un frío paralizante a los objetivos que golpea, ralentizando todos sus movimientos.
+
+
+ESTADÍSTICAS:
+
+Inflige +1 de daño por frío al impactar
+30% de probabilidad de lanzar Lentitud sobre el objetivo al impactar
+
+GAC0: +2
+Daño: 1d6+2 (perforante)
+Factor de velocidad: 4
+Tipo de pericia: Lanza
+Tipo: A dos manos
+Requiere:
+ 5 de Fuerza
+
+Peso: 3~
+
+@141=~Bastón del corazón de roble~
+@142=~En lo más profundo del bosque de Lethyr, la reina dríade Fariquoir gobierna un reino feérico secreto, desconocido más allá de los lindes del bosque. De forma poco común entre las dríades, el harén de Fariquoir está formado por hombres y mujeres druidas de voluntad libre que no se encuentran hechizados por sus encantos, sino que la sirven como consejeros con plena libertad, movidos por el amor y el respeto hacia su reina. Con su consejo, ha gobernado en paz y armonía con las civilizaciones que rodean el bosque desde mucho antes de que existiera registro alguno del hombre.
+
+A sus consortes más apreciados les concede un bastón compuesto por ramas caídas de su propio Árbol del Corazón, un gran roble situado en el centro de Lethyr. Este bastón les otorga la protección del Árbol del Corazón incluso desde la distancia, así como una conexión más profunda con el mundo natural.
+
+
+ESTADÍSTICAS:
+
++2 al nivel de los conjuros divinos
+Permite memorizar 1 conjuro adicional de cada nivel
+
+GAC0: +2
+Daño: 1d6+2 (contundente)
+Factor de velocidad: 4
+Tipo de pericia: Bastón
+Tipo: A dos manos
+Requiere:
+ 5 de Fuerza
+
+Peso: 4
+
+Utilizable por:
+Druida
+Chamán~
+
+@146=~Don del silencio~
+@147=~La historia de la Canción y el Silencio se cuenta a menudo en las tabernas del lejano Kara-Tur. La historia comienza con dos hermanos gemelos nacidos en la frontera entre dos tierras, una de Luz y otra de Sombra. Cada hermano nació con una curiosa aflicción. Uno de ellos solo podía hablar en verso y en canción, y cada paso o sonido que hacía parecía acompañarse de una extraña melodía. El otro hermano estaba condenado al silencio, incapaz de hablar jamás, y cada uno de sus pasos parecía apagado y distante.
+
+Los líderes de los monasterios predominantes de ambas tierras acudieron a la familia de los hermanos destinados. Allí acordaron llevarse cada uno a uno de los hermanos: el Hermano de la Canción al Monasterio de la Luz y el Hermano del Silencio al Monasterio de la Sombra. Allí cada hermano fue criado según los preceptos de su monasterio, convirtiéndose ambos en monjes de sus respectivas órdenes.
+
+Los hermanos no volvieron a encontrarse hasta un gran torneo de artes marciales, cuando ambos participaron como representantes de sus monasterios y se enfrentaron el uno al otro. Los relatos de lo sucedido difieren enormemente. Algunos cuentan que lucharon hasta quedar en empate antes de abrazarse. Otros afirman que cada uno asestó al otro un golpe mortal y que murieron juntos como uno solo.
+
+La orden del Hermano del Silencio forjó para él este ninjatō especial, imbuido con sus virtudes. Cuando se empuña, el arma envuelve a su portador en silencio, dejándolo mudo y amortiguando todo sonido que produce. Aquellos a quienes hiere quedan envueltos en ese mismo silencio.
+
+ESTADÍSTICAS:
+
+Silencia al portador al equiparla
++30% a Moverse en silencio
+25% de probabilidad de silenciar durante 30 segundos al golpear (tirada de salvación contra conjuros)
+
+GAC0: +2
+Daño: 1d8+2 (cortante)
+Factor de velocidad: 2
+Tipo de pericia: Cimitarra/Wakizashi/Ninjatō
+Tipo: Una mano
+Requiere:
+ 6 de Fuerza
+
+Peso: 3~
+
+@148=~Don de la canción~
+@149=~La historia de la Canción y el Silencio se cuenta a menudo en las tabernas del lejano Kara-Tur. La historia comienza con dos hermanos gemelos nacidos en la frontera entre dos tierras, una de Luz y otra de Sombra. Cada hermano nació con una curiosa aflicción. Uno de ellos solo podía hablar en verso y en canción, y cada paso o sonido que hacía parecía acompañarse de una extraña melodía. El otro hermano estaba condenado al silencio, incapaz de hablar jamás, y cada uno de sus pasos parecía apagado y distante.
+
+Los líderes de los monasterios predominantes de ambas tierras acudieron a la familia de los hermanos destinados. Allí acordaron llevarse cada uno a uno de los hermanos: el Hermano de la Canción al Monasterio de la Luz y el Hermano del Silencio al Monasterio de la Sombra. Allí cada hermano fue criado según los preceptos de su monasterio, convirtiéndose ambos en monjes de sus respectivas órdenes.
+
+Los hermanos no volvieron a encontrarse hasta un gran torneo de artes marciales, cuando ambos participaron como representantes de sus monasterios y se enfrentaron el uno al otro. Los relatos de lo sucedido difieren enormemente. Algunos cuentan que lucharon hasta quedar en empate antes de abrazarse. Otros afirman que cada uno asestó al otro un golpe mortal y que murieron juntos como uno solo.
+
+La orden del Hermano de la Canción forjó para él este wakizashi especial, imbuido con sus virtudes. Cuando se empuña, el arma entona el sonido de su himno divino, lo que inspira a los aliados del portador a demostrar mayor valor en combate. Sin embargo, para quien empuña la hoja cantora, esta puede resultar una distracción embriagadora en mitad de la batalla.
+
+ESTADÍSTICAS:
+Efecto de canción de bardo sobre el grupo al impactar con éxito
++1 a Carisma
+-2 a Clase de armadura
+
+-2 al GAC0 (afecta a ambas armas si se empuñan dos)
+Daño: 1d8+2 (perforante)
+Factor de velocidad: 1
+Tipo de pericia: Cimitarra/Wakizashi/Ninjatō
+Tipo: Una mano
+Requiere:
+ 5 de Fuerza
+
+Peso: 1~
+
+@150=~Túnicas de azogue~
+@151=~Por más que lo intentes, no tienes la menor idea de qué material están hechas estas túnicas ni de cómo podrían existir siquiera. El tejido es un remolino de plata y azul que se agita como un líquido metálico y, cuando se visten, no se sienten del todo sólidas, sino más bien como una especie de líquido semiduro, lo cual puede resultar desconcertante. Aun así, mantienen su forma como túnicas y no parecen correr peligro alguno de derretirse sobre tu cuerpo. Además, quien las lleva siempre siente un cosquilleo en las yemas de los dedos y el vello del cuerpo permanece erizado.
+
+Por extraño que sea su origen, aún más extraño es el efecto que producen al llevarlas puestas. Las túnicas generan a su alrededor un poderoso campo magnético. Este efecto repele todos los ataques con armas, pero especialmente los proyectiles. El material de las túnicas parece deslizarse por el aire como si no encontrara resistencia alguna. Por último, el aura magnética también parece amplificar los efectos de la electricidad a su alrededor. Esto tiene un efecto de doble filo: los conjuros eléctricos lanzados por el portador se ven potenciados, pero este también sufre una mayor vulnerabilidad frente a esos mismos conjuros.
+
+ESTADÍSTICAS:
+
+Habilidades al equipar:
+Clase de armadura: 6
+Clase de armadura contra proyectiles: 3
+Aumenta la velocidad de movimiento
++20% al daño de los conjuros eléctricos
+-30% a la resistencia a la electricidad
+
+Peso: 6
+
+Utilizable por:
+Magos
+Druida
+Chamán~
+
+@153=~Símbolo profano de Bhaal~
+@154=~Una representación del dios muerto Bhaal. Este símbolo está agrietado y desgastado por el paso del tiempo.~
+
+@155=~Botas del viajero tenaz~
+@156=~Estas botas de piel parecen muy gastadas e incluso algo raídas, pero es imposible negar lo cómodos que se sienten los pies dentro de ellas. La leyenda cuenta que pertenecieron a un enano viajero que recorrió Faerûn de un extremo a otro, sin detenerse nunca más de unos pocos días antes de emprender de nuevo su camino. Si es cierto, estas botas han soportado toda una vida de desgaste y fatiga, y aun así parecen listas para llevar a su portador todavía más lejos.
+
+ESTADÍSTICAS:
+
+Habilidades al equipar:
++1 a Constitución
 
 Peso: 4~
 
-@3315=~Diario de Ilmryn~
-@3316=~Diario de Ilmryn
+@163=~Rodela de la tempestad~
+@164=~La Rodela de la Tempestad fue creada por una sacerdotisa de Tempus que despreciaba la forma en que muchos guerreros utilizaban los escudos para ocultarse tras ellos en combate. Aunque respetaba el papel del escudo en el arsenal de un guerrero como medio de defensa, sabía que semejante cobardía jamás le granjearía el favor de su dios. En su intento de combinar ataque y defensa, creó la fusión perfecta entre ambos: un escudo que proporciona una excelente protección y al mismo tiempo impulsa a su portador a la ofensiva. A diferencia de otros escudos que favorecen un estilo de combate más pausado, la Rodela de la Tempestad está pensada para empuñarse casi como un arma en la mano secundaria, rechazando ataques en un momento y golpeando enemigos al siguiente. El efecto se asemeja mucho al de combatir con dos armas, aunque con la protección adicional de un escudo en la mano secundaria.
 
-Entrada 2 - He encontrado a la que Corazón Negro busca. Vive en un enclave drow secreto al suroeste de Nashkel. Se llama Sendai. Ella es... diferente de lo que esperaba. Me observa con ojos que parecen ver a través de mi disfraz de elfo común. No debo permitir que me descubra.
+ESTADÍSTICAS:
 
-Entrada 8 - La he observado durante días. Es poderosa, orgullosa y lleva en su sangre la esencia del dios oscuro. Una hija de Bhaal. Debería matarla... sería mi deber como Arpista y como elfo noble. Pero no pude. Es tan hermosa y curiosa. No me odió cuando me encontró. Quiso hablar. Incluso prometió no revelarme ante los suyos. Es extraño. Debo observar más.
+Habilidades al equipar:
+– +1 ataque adicional por asalto
+– -2 al GAC0
+– Clase de armadura: +3
+– Sin protección contra ataques de proyectiles
 
-Entrada 19 - Ha empezado a visitarme regularmente. Se llama Sendai. Creo que la amo. 
+Requiere:
+ 4 de Fuerza
 
-Entrada 22 - Corazón Negro dejó el enclave hace tiempo, pero no lo seguí. No puedo seguirlo. Quizás esto sea una abdicación de mi misión, pero siento que debo permanecer aquí con Sendai. Ella me cuenta sus planes, las cosas que nació para lograr. Me asusta porque, cada vez más, creo que habla con la verdad. Deseo para ella el destino del que habla. 
+Peso: 2~
 
-Entrada 29 - Esta será mi última entrada. Me he jurado a Sendai con todo mi corazón. Me envía a una misión en la superficie... debo destruir a un enemigo suyo. Un hijo de Bhaal como ella que ascendería antes de que sus propios planes se pongan en marcha. Nadie podrá robar esta herencia de mi amor. Malditos sean los Arpistas.~
+@165=~Diario descifrado de Riezen Ojososcuros~
+@166=~*Nota del traductor: He revisado el volumen y transcrito las entradas más importantes. Espero que esto sea de ayuda, o al menos que te resulte interesante.
+
+Entrada 1 - El liderazgo de los Arpistas se ha reunido y me ha asignado la persecución de Corazón Negro, la gran sacerdotisa favorita de Bhaal durante la Era de los Trastornos. Es una misión de la más estricta confidencialidad. No debo hablar de ella con nadie y ni siquiera debería dejar constancia escrita de mi cometido. Solo lo hago mediante un código cuidadosamente ideado que únicamente yo, u otros Arpistas de alto rango, deberían ser capaces de descifrar en el peor de los casos, si no logro cumplir mi misión o informar de regreso. Los detalles que se me han proporcionado sobre Corazón Negro son los siguientes:
+
+Detalles conocidos:
+- Piel clara
+- Ojos azules
+- Los registros discrepan sobre su cabello. Algunos dicen castaño, otros cobrizo y otros rojo brillante. Es probable que lo tiña según convenga.
+- En su atuendo sacerdotal tiende a usar motivos aviares (¿quizá de búho?). Es poco probable que vuelva a vestir tales ropas, aunque suele conservar adornos de plumas incluso cuando se disfraza.
+- Complexión delgada
+- Aproximadamente treinta años de edad
+- Su arma preferida es la lanza. Se sabía que luchaba con ella junto con un gran guantelete con garras.
+- Es, como mínimo, una maga competente. Es improbable que conserve poderes divinos tras la caída de su dios, pero eso no significa que no sea una enemiga peligrosa.
+- Fue vista por última vez en las Montañas Marchantes de Tethyr
+
+Entrada 6 - He localizado a Corazón Negro y he comenzado a seguirla. Aún no sabe que la sigo. Sin embargo, se ha adentrado en la Infraoscuridad por alguna razón que no alcanzo a imaginar. Esto es preocupante, pero continuaré mi tarea y la seguiré bajo tierra. Solo espero no encontrar allí a mis malditos parientes de sangre oscura.
+
+Entrada 9 - He seguido a Corazón Negro durante días bajo la tierra. O... ¿quizá semanas? Aquí el tiempo se me escapa. Su destino se ha revelado por fin. Ha llegado a un pequeño santuario, lejos de las grandes ciudades drow. Sin embargo, el santuario está atendido por otros drow. El complejo presenta los símbolos de Bhaal... probablemente se ocultan de los drow adoradores de Lloth, que destruirían un santuario dedicado a cualquier deidad de la superficie, incluso una tan vil como la suya. Ella permanece en el santuario atendiendo a una joven drow; creo que la está instruyendo. Apenas debe de haber alcanzado la edad adulta. Es... bastante hermosa, pese a su oscuro linaje.
+
+Entrada 13 - He reclamado una gran caverna de la Infraoscuridad como residencia mientras observo a Corazón Negro y a su oscuro prodigio. Los hongos que cultivo y la fauna local bastan para sostenerme. Echo de menos el sol, pero no tanto como algunos de los míos. Siempre he sentido cierta atracción por los rincones sombríos del subsuelo. Mientras cuido mis cultivos de hongos, he empezado a sentir un nuevo respeto por mis parientes de sangre oscura.
+
+Entrada 18 - He cometido un terrible error. Mientras atendía mis cultivos, alguien irrumpió en mi refugio. Temí que los viles drow me hubieran descubierto, pero solo era la joven drow en la que Corazón Negro había mostrado interés. Ahora sé por qué. Es hija del dios oscuro. Una engendro de Bhaal. Debería matarla... sería mi deber como Arpista y como noble elfo. Pero no pude. Es tan hermosa y curiosa. No me odiaba cuando me encontró. Quería hablar. Incluso prometió no delatarme ante los suyos. Es extraño. Debo observar más.
+
+Entrada 19 - Ha empezado a visitarme con regularidad. Su nombre es Sendai. Creo que la amo.
+
+Entrada 22 - Corazón Negro abandonó el enclave hace algún tiempo, pero yo no la seguí. No puedo seguirla. Quizá sea una renuncia a mi misión, pero siento que debo permanecer aquí con Sendai. Me habla de sus planes, de las cosas para las que nació. Me asusta porque, cada vez más, creo que dice la verdad. Deseo para ella el destino del que habla.
+
+Entrada 29 - Esta será mi última entrada. Me he entregado a Sendai con todo mi corazón. Me envía a la superficie en una misión... debo destruir a un enemigo suyo. Un engendro de Bhaal como ella que pretende ascender antes de que sus propios planes se hagan realidad. Nadie debe arrebatar esta herencia a mi amor. Al diablo los Arpistas.~
+
 
 @3324=~Carta~
 @3325=~Jefe,
 
-Hemos estado haciendo muchas buenas matanzas cerca de Beregost. Buen botín de las caravanas. El dinero más fácil desde los días en que jugábamos a ser guardaespaldas para aquellos cultistas de la muerte. Maldita sea, aquel era un trabajo aburrido, vigilar a esos sacerdotes espeluznantes. Solo pensar en ello me dan ganas de asaltar otra caravana.
+Hemos estao haciendo buena matanza por los alrededores de Beregost. Buen botín de las caravanas. La moneda más fácil desde los tiempos en que hacíamos de guardaespaldas para esos cultistas de la muerte. Maldita sea, qué trabajo tan aburrido era aquel, vigilando a esos sacerdotes siniestros. Solo de pensarlo me entran ganas de asaltar otra caravana.
 
-Mis Aguasrojas se quedarán por aquí un poco más, para asegurarnos de que estemos bien gordos de botín. Regresaremos para la próxima luna llena. 
+Mis Aguasrojas se quedarán por aquí un tiempo más, asegurándose de que nos pongamos bien gordos de botín. Volveremos para la próxima luna llena.
 
 Siempre leal,
 -Perthag~
