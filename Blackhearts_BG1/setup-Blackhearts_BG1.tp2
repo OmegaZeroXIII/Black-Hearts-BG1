@@ -14,12 +14,12 @@ LANGUAGE ~English~
 
 LANGUAGE ~Spanish~
          ~Spanish~
-         ~Blackhearts_BG1/tra/Spanish/BHBG1setup.tra~
-         ~Blackhearts_BG1/tra/Spanish/BHBG1names.tra~
-         ~Blackhearts_BG1/tra/Spanish/BHBG1sounds.tra~
-         ~Blackhearts_BG1/tra/Spanish/BHBG1quests.tra~
-         ~Blackhearts_BG1/tra/Spanish/BHBG1items.tra~
-         ~Blackhearts_BG1/tra/Spanish/BHBG1script.tra~
+         ~Blackhearts_BG1/tra/spanish/BHBG1setup.tra~
+         ~Blackhearts_BG1/tra/spanish/BHBG1names.tra~
+         ~Blackhearts_BG1/tra/spanish/BHBG1sounds.tra~
+         ~Blackhearts_BG1/tra/spanish/BHBG1quests.tra~
+         ~Blackhearts_BG1/tra/spanish/BHBG1items.tra~
+         ~Blackhearts_BG1/tra/spanish/BHBG1script.tra~
 
 BEGIN @1
 
@@ -830,3 +830,4 @@ EXTEND_TOP ~PRESFIEL.bcs~ ~Blackhearts_BG1/Scripts/PRESFIEL.baf~
 APPEND ~mastarea.2da~
 
 ~WI0003  value~
+
