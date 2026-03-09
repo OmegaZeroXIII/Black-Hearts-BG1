@@ -3,30 +3,27 @@ AUTHOR ~AWizardDidIt~
 
 VERSION ~v1.0~
 
-LANGUAGE
-	~English~
-	~English~
-	
-~Blackhearts_BG1/tra/English/BHBG1setup.tra~
-~Blackhearts_BG1/tra/English/BHBG1names.tra~
-~Blackhearts_BG1/tra/English/BHBG1sounds.tra~
-~Blackhearts_BG1/tra/English/BHBG1quests.tra~
-~Blackhearts_BG1/tra/English/BHBG1items.tra~
-~Blackhearts_BG1/tra/English/BHBG1script.tra~
+LANGUAGE ~English~
+         ~English~
+         ~Blackhearts_BG1/tra/English/BHBG1setup.tra~
+         ~Blackhearts_BG1/tra/English/BHBG1names.tra~
+         ~Blackhearts_BG1/tra/English/BHBG1sounds.tra~
+         ~Blackhearts_BG1/tra/English/BHBG1quests.tra~
+         ~Blackhearts_BG1/tra/English/BHBG1items.tra~
+         ~Blackhearts_BG1/tra/English/BHBG1script.tra~
 
-	~Spanish~
-	~Spanish~
-	
-~Blackhearts_BG1/tra/spanish/BHBG1setup.tra~
-~Blackhearts_BG1/tra/spanish/BHBG1names.tra~
-~Blackhearts_BG1/tra/spanish/BHBG1sounds.tra~
-~Blackhearts_BG1/tra/spanish/BHBG1quests.tra~
-~Blackhearts_BG1/tra/spanish/BHBG1items.tra~
-~Blackhearts_BG1/tra/spanish/BHBG1script.tra~
+LANGUAGE ~Spanish~
+         ~Spanish~
+         ~Blackhearts_BG1/tra/Spanish/BHBG1setup.tra~
+         ~Blackhearts_BG1/tra/Spanish/BHBG1names.tra~
+         ~Blackhearts_BG1/tra/Spanish/BHBG1sounds.tra~
+         ~Blackhearts_BG1/tra/Spanish/BHBG1quests.tra~
+         ~Blackhearts_BG1/tra/Spanish/BHBG1items.tra~
+         ~Blackhearts_BG1/tra/Spanish/BHBG1script.tra~
 
 BEGIN @1
 
-ADD_JOURNAL @15 @20 @25 @28 @39 @63 @70 @74 @75 @77 @87 @88 @105 @107 @114 @123 @124 @133 @152 USING ~Blackhearts_BG1/English/BHBG1quests.tra~
+ADD_JOURNAL @15 @20 @25 @28 @39 @65 @70 @74 @75 @77 @87 @88 @105 @107 @114 @123 @124 @133 @152 USING ~Blackhearts_BG1/%LANGUAGE%/BHBG1quests.tra~
 
 COMPILE "Blackhearts_BG1/Dialog/" USING ~Blackhearts_BG1/tra/%LANGUAGE%/BHBG1script.tra~
 
@@ -41,13 +38,13 @@ COPY ~Blackhearts_BG1/Areas/TIS~ "override"
 COPY ~Blackhearts_BG1/Areas/PVRZ~ "override"
 
 COPY ~Blackhearts_BG1/Areas/WI0008.are~ ~override~
-SAY 0x180 ~This bridge fades into nothingness up ahead. Perhaps it once led somewhere, yet you cannot fathom where.~
-SAY 0x244 ~The hairs on your skin stick up as the green light from this crystal touches you. You decide it’s probably best not to touch or get too much closer to it.~
-SAY 0x308 ~An unnerving face rests in the trunk of this tree. It’s mouth is open, as if to tell you something urgent, yet it produces no sound.~
-SAY 0x3cc ~The door here is sealed tight and resists any attempt to open it. You will have to find a way to bypass the wards that have been placed on it.~
+SAY 0x180 @5000
+SAY 0x244 @5001
+SAY 0x308 @5002
+SAY 0x3cc @5003
 
 COPY ~Blackhearts_BG1/Areas/WI0009.are~ ~override~
-SAY 0x6dc ~The hairs on your skin stick up as the yellow light from this crystal touches you. You decide it’s probably best not to touch or get too much closer to it.~
+SAY 0x6dc @5004
 
 COPY ~Blackhearts_BG1/Graphics~ "override"
 
